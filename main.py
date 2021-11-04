@@ -67,7 +67,7 @@ website_entry.focus()
 
 email_entry = tkinter.Entry(width=35)
 email_entry.grid(row=2, column=1, columnspan=2, sticky="EW")
-email_entry.insert(0, "josevitor@gmail.com")
+email_entry.insert(0, "user@gmail.com")
 email_entry.focus()
 
 password_entry = tkinter.Entry(width=21)
